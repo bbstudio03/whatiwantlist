@@ -3,7 +3,7 @@ Click the green button that says clone or download to download it to your comput
 If your are not on your computer copy and paste the text below to notes
 # <h1>My List of what I want v1.0</h1>
 
-1. Monitor
+1. Monitor Acer-R240HY bdix
 2. 16-32GB Micro SD card
 3. 16-32GB thumb drive
 4. The book: Rangers Apprentice
