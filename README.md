@@ -1,6 +1,7 @@
 READ THIS CONTENT BELOW                                                                                                                   
 Click the green button that says clone or download to download it to your computer.
-If your are not on your computer copy and paste the text below to notes
+If your are not on your computer (On your phone) copy and paste the text below to notes
+Make sure you click "View all of README.md" below to see the whole list :)
 # <h1>My List v1.0</h1>
 
 1. Monitor Acer-R240HY bdix
