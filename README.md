@@ -12,6 +12,6 @@ Make sure you click "View all of README.md" below to see the whole list:)
 6. Star wars Legos
 7. Amazon gift card
 8. Guinness World Records 2018
-9. Pelet Guns
+9. Pellet Guns
 10. Street Soccer ball
 11. Bowie/US marine knife
