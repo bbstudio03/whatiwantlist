@@ -2,7 +2,7 @@
 Click the green button that says clone or download to download it to your computer.
 If your are not on your computer (On your phone) copy and paste the text below to notes.
 Make sure you click "View all of README.md" below to see the whole list:)
-# <h1>My List v1.0</h1>
+# <h1>My List v1.3</h1>
 
 1. Monitor Acer-R240HY bdix
 2. 16-32GB Micro SD card
@@ -15,3 +15,5 @@ Make sure you click "View all of README.md" below to see the whole list:)
 9. Pellet Guns
 10. Street Soccer ball
 11. Bowie/US marine knife
+12. Kali Linux reveled (its a book)
+13. aaa rechargeable batteries
