@@ -15,5 +15,4 @@ Make sure you click "View all of README.md" below to see the whole list:)
 9. Pellet Guns
 10. Street Soccer ball
 11. Bowie/US marine knife https://www.amazon.com/Tactical-Combat-SHEATH-Military-Survival/dp/B014DEFFMQ/ref=sr_1_15?s=sporting-goods&ie=UTF8&qid=1495517372&sr=1-15&keywords=bowie+knife
-12. Kali Linux reveled (its a book)
 13. aaa rechargeable batteries
