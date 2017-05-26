@@ -2,7 +2,7 @@
 Click the green button that says clone or download to download it to your computer.
 If your are not on your computer (On your phone) copy and paste the text below to notes.
 Make sure you click "View all of README.md" below to see the whole list:)
-# <h1>My List v1.3</h1>
+# <h1>My List v1.3.2</h1>
 
 1. Monitor Acer-R240HY bdix
 2. 16-32GB Micro SD card
@@ -14,5 +14,5 @@ Make sure you click "View all of README.md" below to see the whole list:)
 8. Guinness World Records 2018
 9. Pellet Guns
 10. Street Soccer ball
-11. Bowie/US marine knife https://www.amazon.com/Tactical-Combat-SHEATH-Military-Survival/dp/B014DEFFMQ/ref=sr_1_15?s=sporting-goods&ie=UTF8&qid=1495517372&sr=1-15&keywords=bowie+knife
+11. Bowie/US marine knife https://www.amazon.com/gp/aw/d/B01KNCACN4/ref=mp_s_a_1_10?ie=UTF8&qid=1495776001&sr=8-10&pi=AC_SX236_SY340_QL65&keywords=survival+knife+with+sheath&dpPl=1&dpID=31WfG4hnqtL&ref=plSrch
 13. aaa rechargeable batteries
