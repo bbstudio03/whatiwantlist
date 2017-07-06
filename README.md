@@ -4,7 +4,7 @@ If your are not on your computer (On your phone) copy and paste the text below t
 Make sure you click "View all of README.md" below to see the whole list:)
 <hr />
 If they are in bold I really want them.
-# <h1>My List v1.4.9</h1>
+# <h1>My List v1.5.2</h1>
 
 ## * Monitor Acer-R240HY bdix https://www.amazon.com/Acer-R240HY-bidx-23-8-Inch-Widescreen/dp/B0148NNKTC
 * 16-32GB Micro SD card
@@ -18,7 +18,8 @@ If they are in bold I really want them.
 * aaa rechargeable batteries
 * Fidget spinners
 * Boardless Skateboard
+* One wheele
 
-What I got list:
+<h2> What I got list:</h2>
 * Paracord Bracelet https://www.amazon.com/X-Plore-Gear-Emergency-Wilderness-Survival-Kit/dp/B01LZ0PA4M/ref=sr_1_3?ie=UTF8&qid=1496035314&sr=8-3&keywords=paracord+bracelet
 * Street Soccer ball
