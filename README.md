@@ -22,4 +22,5 @@ If they are in bold I really want them.
 
 <h2> What I got list:</h2>
 * Paracord Bracelet https://www.amazon.com/X-Plore-Gear-Emergency-Wilderness-Survival-Kit/dp/B01LZ0PA4M/ref=sr_1_3?ie=UTF8&qid=1496035314&sr=8-3&keywords=paracord+bracelet
+
 * Street Soccer ball
