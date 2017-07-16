@@ -22,6 +22,7 @@ If they are in bold I really want them.
 * Head Phonephones
 * Iphone 5 case (that fits my fat charger)
 * A screen protector for my watch
+* ## Throwing knife https://www.amazon.com/GH2033-Gil-Hibben-Competition-Throwing/dp/B000BYN4DA
 
 <h2> What I got list:</h2>
 
