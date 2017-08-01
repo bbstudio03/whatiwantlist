@@ -25,7 +25,7 @@ If they are in bold I really want them.
 * ## Throwing knife https://www.amazon.com/GH2033-Gil-Hibben-Competition-Throwing/dp/B000BYN4DA
 * Rangers Apprentice books 3-12
 * Running shoes (ask <u>MOM</u> for details)
-* USB 3.0 hub https://www.amazon.com/Anker-4-Port-Macbook-Surface-Notebook/dp/B00XMD7KPU/ref=pd_sbs_147_7?_encoding=UTF8&pd_rd_i=B00XMD7KPU&pd_rd_r=3F65B5HY44B73EJHMV94&pd_rd_w=Ulvsi&pd_rd_wg=8wqma&psc=1&refRID=3F65B5HY44B73EJHMV94
+* USB 3.0 hub https://www.amazon.com/dp/B00JX1ZS5O/ref=psdc_281413_t1_B00XMD7KPU
 
 <h2> What I got list:</h2>
 
