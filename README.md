@@ -4,7 +4,7 @@ If your are not on your computer (On your phone) copy and paste the text below t
 Make sure you click "View all of README.md" below to see the whole list:)
 <hr />
 If they are in bold I really want them.
-<h1>My List v1.9.5</h1>
+<h1>My List v1.9.6</h1>
 
 * ##  Monitor Acer-R240HY bdix https://www.amazon.com/Acer-R240HY-bidx-23-8-Inch-Widescreen/dp/B0148NNKTC
 * 16-32GB Micro SD card https://www.amazon.com/gp/product/B06XWN9Q99/ref=s9_acsd_top_hd_bw_b3I4RsJ_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=SYP3SP1223CNE2DVECFE&pf_rd_t=101&pf_rd_p=4deb6fed-1027-542e-9972-8f77337666ef&pf_rd_i=3015433011
@@ -25,6 +25,7 @@ If they are in bold I really want them.
 * ## Throwing knife https://www.amazon.com/GH2033-Gil-Hibben-Competition-Throwing/dp/B000BYN4DA
 * Rangers Apprentice books 3-12
 * Running shoes (ask <u>MOM</u> for details)
+* USB 3.0 hub https://www.amazon.com/Anker-4-Port-Macbook-Surface-Notebook/dp/B00XMD7KPU/ref=pd_sbs_147_7?_encoding=UTF8&pd_rd_i=B00XMD7KPU&pd_rd_r=3F65B5HY44B73EJHMV94&pd_rd_w=Ulvsi&pd_rd_wg=8wqma&psc=1&refRID=3F65B5HY44B73EJHMV94
 
 <h2> What I got list:</h2>
 
