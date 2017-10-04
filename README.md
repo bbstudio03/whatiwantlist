@@ -4,7 +4,7 @@ If your are not on your computer (On your phone) copy and paste the text below t
 Make sure you click "View all of README.md" below to see the whole list:)
 <hr />
 If they are in bold I really want them.
-<h1>My List v2.1.4</h1>
+<h1>My List v2.1.7</h1>
 
 * 16-32GB Micro SD card https://www.amazon.com/gp/product/B06XWN9Q99/ref=s9_acsd_top_hd_bw_b3I4RsJ_c_x_w?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-3&pf_rd_r=SYP3SP1223CNE2DVECFE&pf_rd_t=101&pf_rd_p=4deb6fed-1027-542e-9972-8f77337666ef&pf_rd_i=3015433011
 * 16-32GB thumb drive https://www.amazon.com/Samsung-METAL-Flash-MUF-32BA-AM/dp/B013CCTM2E/ref=sr_1_1?s=pc&ie=UTF8&qid=1500611797&sr=1-1&refinements=p_n_size_browse-bin%3A1259716011
@@ -18,7 +18,7 @@ If they are in bold I really want them.
 * Boardless Skateboard
 * One wheele
 * Head Phones
-* Iphone 5 case (that fits my fat charger) https://www.amazon.com/iPhone-Trianium-Protective-Gunmetal-Shock-Absorbing/dp/B01CDOFONI/ref=lp_12008465011_1_3?s=wireless&ie=UTF8&qid=1500610932&sr=1-3
+* Iphone 5 case (that fits my fat charger)
 * A screen protector for my watch https://www.amazon.com/Vivoactive-Protector-LiQuidSkin-Coverage-Anti-Bubble/dp/B00SXHFCV4
 * ## Throwing knife https://www.amazon.com/GH2033-Gil-Hibben-Competition-Throwing/dp/B000BYN4DA
 * Rangers Apprentice books 3-12
@@ -28,7 +28,9 @@ If they are in bold I really want them.
 * Hiking pants (ask MOM for details)
 * Gerber Bear Grylls Ultimate Pro Knife https://www.amazon.com/Gerber-Grylls-Ultimate-Knife-31-001901/dp/B00AU6H3UY
 * ## Pocket knife https://www.amazon.com/Gerber-Knife-Serrated-Tanto-30-000118/dp/B001S0KH40/ref=sr_1_4?ie=UTF8&qid=1505104961&sr=8-4&keywords=gerber+propel+downrange+ao+knife
-*phone battery backup
+* phone battery backup
+* Adventures of Tintin books volume 2-7
+* Asterix comics
 
 
 <h2> What I got list:</h2>
