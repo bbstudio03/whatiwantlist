@@ -26,7 +26,7 @@ If they are in bold I really want them.
 * USB 3.0 hub https://www.amazon.com/dp/B00JX1ZS5O/ref=psdc_281413_t1_B00XMD7KPU
 * Camelbak 3 liter
 * Hiking pants (ask MOM for details)
-* Gerber Bear Grylls Ultimate Pro Knife https://www.amazon.com/Gerber-Grylls-Ultimate-Knife-31-001901/dp/B00AU6H3UY
+* ## Gerber Bear Grylls Ultimate Pro Knife https://www.amazon.com/Gerber-Grylls-Ultimate-Knife-31-001901/dp/B00AU6H3UY
 * ## Pocket knife https://www.amazon.com/Gerber-Knife-Serrated-Tanto-30-000118/dp/B001S0KH40/ref=sr_1_4?ie=UTF8&qid=1505104961&sr=8-4&keywords=gerber+propel+downrange+ao+knife
 * phone battery backup
 * Adventures of Tintin books volume 2-7
