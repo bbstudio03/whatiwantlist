@@ -4,6 +4,7 @@ If your are not on your computer (On your phone) copy and paste the text below t
 Make sure you click "View all of README.md" below to see the whole list:)
 <hr />
 If they are in bold I really want them.
+<hr />
 ## THX FOR THE GREAT 2017 CHRISTMAS! New wishlist @ https://github.com/bbstudio03/Wishlist2018
 <h1>My List v2.2.1</h1>
 
